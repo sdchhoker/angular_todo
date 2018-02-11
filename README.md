@@ -25,6 +25,7 @@ this server is:
 ```
 npm start
 ```
+Now browse to the app at [`localhost:8000/index.html`][local-app-url].
 
 ### Task
 
@@ -35,7 +36,6 @@ Expected:
 * User should be able to mark a todo complete and uncomplete.
 * Use css layout schemes.
 
-Now browse to the app at [`localhost:8000/index.html`][local-app-url].
 
 [local-app-url]: http://localhost:8000/index.html
 [node]: https://nodejs.org/
