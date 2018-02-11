@@ -30,10 +30,10 @@ npm start
 
 Create a todo application.
 Expected:
-User should be able to add a todo.
-User should be able to delete a todo.
-User should be able to mark a todo complete and uncomplete.
-Use css layout schemes.
+* User should be able to add a todo.
+* User should be able to delete a todo.
+* User should be able to mark a todo complete and uncomplete.
+* Use css layout schemes.
 
 Now browse to the app at [`localhost:8000/index.html`][local-app-url].
 
