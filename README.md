@@ -2,6 +2,13 @@
 
 Starter for angular
 
+
+### Prerequisites
+
+
+You must have Node.js and its package manager (npm) installed. You can get them from [here][node].
+
+
 ### Install Dependencies
 
 We have preconfigured `npm` to automatically run `bower` so we can simply do:
@@ -18,9 +25,6 @@ this server is:
 ```
 npm start
 ```
-### Prerequisites
-
-node and npm
 
 ### Task
 
@@ -34,3 +38,4 @@ Use css layout schemes.
 Now browse to the app at [`localhost:8000/index.html`][local-app-url].
 
 [local-app-url]: http://localhost:8000/index.html
+[node]: https://nodejs.org/
